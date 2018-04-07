@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_c9192c82da65a4830e63bc3fa892e415e523531c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_d7f53e55e2eb15f92ab2aac4f1f7603221927871/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_c49bdc4c681bd7b0979bd7812889779a357fb272/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_c78c70c5be63a5b6dca3887ada4d3706ad5557d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_646448dcdc31df0103513f48d2c6201e25629896/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_1539f3ac4dd902173121d14fb801fc4f27057add/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.github.shell-software/fab/1.1.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="48bbecbdd3ed42e9df1b94a945480838e3bb208b">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.shell-software-fab-1.1.2_edf00f32b0530eb02d42383a72048e1aa3de3481/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_0fed5f1147c6c85f2fec18470bef3311bb3549af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_db23b1720795f7f555bbfa5d4d5b0004ffbbf0ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_eb667c8bde2e003066d04435406e24559be19494/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.9/872ec63b41181e29ad5a3723f1417356e2d2c0f2/slf4j-api-1.7.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="872ec63b41181e29ad5a3723f1417356e2d2c0f2">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-api-1.7.9_55d9f87fc9cf3cd6a5b94aed6dea67726af89f3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_14d4a0111b6d5faa1feb35288e987b58529b61c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_09233df03e217818c271041216d4c3bbfd34f32d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_3cad535d01b3dac5b6a37f53ee228d16f41aafbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_4b6f258937ba7b3e831cf0b0027f0007b72ed239/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.github.shell-software/uitools/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="418307d960be5f7c5fe13794b7283f5fd09d0c17">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.shell-software-uitools-1.1.0_e38197915a1ac290ac34745ee58d699db0b438d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_42b015249f7f0192c135b58b2657cad499eabd6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.astuetz-pagerslidingtabstrip-1.0.1_b5318d942d59225f8f3e174dc579555824421683/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.4_f6ad6e4ece3db7aeb4e33ed7f4da858099b80c41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_59d62713fe4789c415c173eb68922a128e363bb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_29c3f87f54fb97ea2d5bc8ba50b58304718361ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_bc9cd63bdd86ab256218257b69107774784779b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.1.1_9831a6f35457a4af3c9d47a78f4b2629a62e8d3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_0da1aadbaf319f7de5c32bd2e58a79e92e25d967/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_5fd7b3616283c8b923e7cca995dd1c566c6f36ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_c1563b910075b5e0b664b4aad39f06788585dd14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.1.1_68ad86690335a5fb8db783d70f248f762d42285a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_289f49455a81da6988143078e8b6ce4636406f1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/exploded-aar/com.github.shell-software/viewmover/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3d6dc28c575755c91be7f6a69803e4ebe98c7c7d">
+        <dex dex="/Users/jlambre/fiuba/taller2/android-sample_app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.shell-software-viewmover-1.1.0_cd5aaf096676ed266bff2f0697e9f0195c0eb383/classes.dex" />
+    </item>
+
+</items>
